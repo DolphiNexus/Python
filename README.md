@@ -14,8 +14,9 @@ class Order():
 print('Welcome to the Taco Shop! May I take your order?')
 print('Ok! Your taco will contain '+meat,'and '+topping,'!')
 ```
-- This prints out what I want the code to say before and after the user inputs their favorite taco topping and meat.
-#- The second print is different, the +meat and +topping is inputing the user's input into the order summary.
+- This prints out what I want the code to say before and after the user inputs their favorite taco topping and meat. 
+#
+- The second print is different, the +meat and +topping is inputing the user's input into the order summary.
 
 # Conclusion
 This challenge took some time but it was simple once you get a better understanding on how to use Python.
